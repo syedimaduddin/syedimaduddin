@@ -50,8 +50,6 @@
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=syedimaduddin&&theme=xcode)](https://github.com/syedimaduddin)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedimaduddin&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="syedimaduddin" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedimaduddin&show_icons=true&locale=en&theme=vue-dark" alt="syedimaduddin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedimaduddin&&theme=vue-dark" alt="syedimaduddin" /></p>
+<span><img align="center" src="https://github-readme-stats.vercel.app/api?username=syedimaduddin&show_icons=true&locale=en&theme=vue-dark" alt="syedimaduddin" /></span>
+<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedimaduddin&&theme=vue-dark" alt="syedimaduddin" /></span>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedimaduddin&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="syedimaduddin" /></p>
