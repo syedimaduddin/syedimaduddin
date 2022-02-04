@@ -1,5 +1,6 @@
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQE5KT4MYsB0fQ/profile-displaybackgroundimage-shrink_350_1400/0/1639203161022?e=1649289600&v=beta&t=jtcmSsecnIKnmXY4Fw5wlgxCTq7N1ZN_75Q4TG7xt1U)](https://syedimaduddin.io)
-<h1 align="center">Hi 👋, I'm Syed Imaduddin</h1>
+<h1 align="center">Hi <img height="25" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif">, I'm Syed Imaduddin</h1>
+
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.sayyadimran.com/wp-content/uploads/2021/02/senior-front-end-developer-openings-1.gif">
 
