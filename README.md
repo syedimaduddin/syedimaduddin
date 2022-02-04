@@ -54,3 +54,15 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=syedimaduddin&show_icons=true&locale=en&theme=vue-dark" alt="syedimaduddin" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedimaduddin&&theme=vue-dark" alt="syedimaduddin" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedimaduddin&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="syedimaduddin" /></p>
+
+<hr>
+
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">[![Github](https://img.shields.io/github/followers/syedimaduddin?label=Follow%20Me&style=social)](https://github.com/syedimaduddin)
+<br>
+<br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Syed%20Imaduddin-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/syedimaduddin/)
+[![Mail](https://img.shields.io/badge/Gmail-imaduddinsyed09@gmail.com-blue?logo=Gmail&labelColor=black)](mailto:imaduddinsyed09@gmail.com)
+<br>
+[![Codepen](https://img.shields.io/badge/Codepen-Syed%20Imaduddin-brightgreen?logo=codepen&logoColor=White&labelColor=black)](https://codepen.io/syedimaduddin)
+[![HackerRank](https://img.shields.io/badge/HackerRank-syed_imad-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/imaduddinsyed09)
+[![CodeChef](https://img.shields.io/badge/CodeChef-syed_imad-brightgreen?logo=CodeChef&logoColor=White&labelColor=black)](https://www.codechef.com/users/syed_imad/)
