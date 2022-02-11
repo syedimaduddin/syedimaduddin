@@ -57,7 +57,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedimaduddin&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="syedimaduddin" /></p>
 -->
 
-Syed Imaduddin GitHub Streak      |  Syed Imauddin GitHub Stats
+Syed Imaduddin GitHub Streak      |  Syed Imaduddin GitHub Stats
 :-------------------------:|:-------------------------:
 ![Syed Imaduddin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syedimaduddin&&theme=vue-dark) | ![Syed Imadudin GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedimaduddin&show_icons=true&locale=en&theme=vue-dark)
 
