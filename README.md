@@ -51,13 +51,19 @@
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=syedimaduddin&&theme=xcode)](https://github.com/syedimaduddin)
 
+<!-- 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=syedimaduddin&show_icons=true&locale=en&theme=vue-dark" alt="syedimaduddin" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedimaduddin&&theme=vue-dark" alt="syedimaduddin" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedimaduddin&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="syedimaduddin" /></p>
+-->
+
+Syed Imaduddin GitHub Streak      |  Syed Imauddin GitHub Stats
+:-------------------------:|:-------------------------:
+![Syed Imaduddin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syedimaduddin&&theme=vue-dark) | ![Syed Imadudin GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedimaduddin&show_icons=true&locale=en&theme=vue-dark)
 
 <hr>
 
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">[![Github](https://img.shields.io/github/followers/syedimaduddin?label=Follow%20Me&style=social)](https://github.com/syedimaduddin)
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>[![Github](https://img.shields.io/github/followers/syedimaduddin?label=Follow%20Me&style=social)](https://github.com/syedimaduddin)
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Syed%20Imaduddin-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/syedimaduddin/)
