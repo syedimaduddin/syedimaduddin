@@ -9,11 +9,11 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/imaduddinsyed09" target="blank"><img src="https://img.shields.io/twitter/follow/imaduddinsyed09?logo=twitter&style=for-the-badge" alt="syedimaduddin" /></a> </p> -->
 
-- 🔭 I’m currently studying in second year of **B.Tech Electronics** at **<a href="https://amu.ac.in/colleges/zakir-husain-college-of-engineering-and-technology" target="blank">ZHCET, AMU</a>**
+- 🔭 I’m currently studying in 3rd year of **B.Tech Electronics** at **<a href="https://amu.ac.in/colleges/zakir-husain-college-of-engineering-and-technology" target="blank">ZHCET, AMU</a>**
 
-- 🌱 I’m currently learning **Flutter Development**
+- 🌱 I’m currently learning **Robotics & Artificial Intelligence**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Electronics**
 
 - 📫 How to reach me **imaduddinsyed09@gmail.com**
 
