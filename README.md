@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently studying in 3rd year of **B.Tech Electronics** at **<a href="https://amu.ac.in/colleges/zakir-husain-college-of-engineering-and-technology" target="blank">ZHCET, AMU</a>**
 
-- 🌱 I’m currently learning **Robotics & Artificial Intelligence**
+- 🌱 I’m interested in **VLSI, IOT, Embedded Systems**
 
 - 💬 Ask me about **Electronics**
 
