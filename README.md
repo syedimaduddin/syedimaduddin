@@ -1,9 +1,9 @@
 <!-- [![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQEnpyLF9c_9tA/profile-displaybackgroundimage-shrink_200_800/0/1658758909520?e=1666224000&v=beta&t=5bYbuYguhKBfzILfiyZYKcGLVomIDJK9qnUyBmWVEHg)](https://syedimaduddin.io) -->
-<h1 align="center">Hi <img height="25" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif">, I'm Syed Imaduddin</h1>
+<h1 align="center">Hey! <!-- <img height="25" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif"> -->I'm Syed Imaduddin</h1>
 
 <!-- <h3 align="center">Interest in Robotics & Artificial Intelligence</h3> -->
-<img align="right" alt="Coding" width="400" src="https://www.sayyadimran.com/wp-content/uploads/2021/02/senior-front-end-developer-openings-1.gif">
-
+<!-- <img align="right" alt="Coding" width="400" src="https://www.sayyadimran.com/wp-content/uploads/2021/02/senior-front-end-developer-openings-1.gif"> -->
+<img align="right" alt="Coding" width="400" src="https://www.smatbot.com/blog/wp-content/uploads/2018/02/Hi-Animation-without-background-.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedimaduddin&label=Profile%20Views&color=0e75b6&style=flat" alt="syedimaduddin" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently studying in 3rd year of **B.Tech Electronics** at **<a href="https://amu.ac.in/colleges/zakir-husain-college-of-engineering-and-technology" target="blank">ZHCET, AMU</a>**
 
-- 🌱 I’m interested in **VLSI, IOT, Embedded Systems**
+- 🌱 I’m interested in **VLSI, IOT, Embedded Systems, and Robotics**
 
 - 💬 Ask me about **Electronics**
 
