@@ -49,7 +49,7 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=syedimaduddin&&theme=xcode)](https://github.com/syedimaduddin)
+<!-- [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=syedimaduddin&&theme=xcode)](https://github.com/syedimaduddin) -->
 
 <!-- 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=syedimaduddin&show_icons=true&locale=en&theme=vue-dark" alt="syedimaduddin" /></p>
