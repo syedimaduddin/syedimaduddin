@@ -67,7 +67,7 @@
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Syed%20Imaduddin-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/syed-imaduddin-siu/)
-[![Youtube](https://img.shields.io/badge/YouTube-Syed%20Imaduddin-blue?style=flat&logo=youtube&logoColor=white&labelColor=red)](https://www.youtube.com/@syedimaduddin_siu/)
+[![Youtube](https://img.shields.io/badge/YouTube-Syed%20Imaduddin-blue?style=flat&logo=youtube&logoColor=white&labelColor=black)](https://www.youtube.com/@syedimaduddin_siu/)
 <!--
 [![Mail](https://img.shields.io/badge/Gmail-imaduddinsyed09@gmail.com-blue?logo=Gmail&labelColor=black)](mailto:imaduddinsyed09@gmail.com)
 <br>
