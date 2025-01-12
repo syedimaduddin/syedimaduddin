@@ -67,8 +67,9 @@
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Syed%20Imaduddin-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/syed-imaduddin-siu/)
-[![Mail](https://img.shields.io/badge/Gmail-imaduddinsyed09@gmail.com-blue?logo=Gmail&labelColor=black)](mailto:imaduddinsyed09@gmail.com)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white](https://www.youtube.com/@syedimaduddin_siu/)
 <!--
+[![Mail](https://img.shields.io/badge/Gmail-imaduddinsyed09@gmail.com-blue?logo=Gmail&labelColor=black)](mailto:imaduddinsyed09@gmail.com)
 <br>
 [![Codepen](https://img.shields.io/badge/Codepen-Syed%20Imaduddin-brightgreen?logo=codepen&logoColor=White&labelColor=black)](https://codepen.io/syedimaduddin)
 [![HackerRank](https://img.shields.io/badge/HackerRank-syed_imad-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/imaduddinsyed09)
