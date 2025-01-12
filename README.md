@@ -9,7 +9,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/imaduddinsyed09" target="blank"><img src="https://img.shields.io/twitter/follow/imaduddinsyed09?logo=twitter&style=for-the-badge" alt="syedimaduddin" /></a> </p> -->
 
-- 🔭 I’m currently studying in 4th year of **B.Tech Electronics** at **<a href="https://amu.ac.in/colleges/zakir-husain-college-of-engineering-and-technology" target="blank">ZHCET, AMU</a>**
+- 🔭 I’m an **Electronics Engineer** from Batch '24 of **<a href="https://amu.ac.in/colleges/zakir-husain-college-of-engineering-and-technology" target="blank">ZHCET, AMU</a>** 
 
 - 🌱 I’m interested in **VLSI, IOT, Embedded Systems, and Robotics**
 
